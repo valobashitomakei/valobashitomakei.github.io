@@ -38,6 +38,7 @@ p{
     border: 1px solid;
     color: cadetblue;
     font-family: cursive;
+    font-weight: bold;
     height: 35px;
     margin: 0 5px 5px 11px;
     width: 39px;
@@ -51,5 +52,6 @@ p{
     margin-left: 10px;
     color: cadetblue;
     font-family: cursive;
+    font-weight: bold;
     border: 1px solid
 }
